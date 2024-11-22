@@ -1,0 +1,458 @@
+{
+    "Щавель": {
+        "avg_price": 5698.3,
+        "max_price": 9905,
+        "min_price": 139,
+        "count": 20
+    },
+    "Спрайт": {
+        "avg_price": 6108.4,
+        "max_price": 9660,
+        "min_price": 1323,
+        "count": 15
+    },
+    "Курица": {
+        "avg_price": 5914.631578947368,
+        "max_price": 9707,
+        "min_price": 157,
+        "count": 19
+    },
+    "Сельдерей": {
+        "avg_price": 5498.888888888889,
+        "max_price": 9425,
+        "min_price": 617,
+        "count": 18
+    },
+    "Противни": {
+        "avg_price": 3850.181818181818,
+        "max_price": 9219,
+        "min_price": 197,
+        "count": 11
+    },
+    "Evian": {
+        "avg_price": 5887.65,
+        "max_price": 9557,
+        "min_price": 1226,
+        "count": 20
+    },
+    "Сыр": {
+        "avg_price": 4690.625,
+        "max_price": 6863,
+        "min_price": 1286,
+        "count": 8
+    },
+    "Дезодорант": {
+        "avg_price": 5662.0,
+        "max_price": 9803,
+        "min_price": 234,
+        "count": 10
+    },
+    "Кефир": {
+        "avg_price": 4765.090909090909,
+        "max_price": 9043,
+        "min_price": 810,
+        "count": 11
+    },
+    "Ванилин": {
+        "avg_price": 4984.461538461538,
+        "max_price": 9719,
+        "min_price": 497,
+        "count": 13
+    },
+    "Турнепс": {
+        "avg_price": 5243.0,
+        "max_price": 9244,
+        "min_price": 968,
+        "count": 15
+    },
+    "Одеяла": {
+        "avg_price": 4651.285714285715,
+        "max_price": 7668,
+        "min_price": 491,
+        "count": 7
+    },
+    "Цукини": {
+        "avg_price": 3513.875,
+        "max_price": 8671,
+        "min_price": 904,
+        "count": 8
+    },
+    "Шпинат": {
+        "avg_price": 4303.791666666667,
+        "max_price": 9535,
+        "min_price": 181,
+        "count": 24
+    },
+    "Подставки под столовые приборы": {
+        "avg_price": 4597.416666666667,
+        "max_price": 9237,
+        "min_price": 248,
+        "count": 12
+    },
+    "Сухофрукты (изюм, курага, чернослив)": {
+        "avg_price": 6195.875,
+        "max_price": 9303,
+        "min_price": 2655,
+        "count": 8
+    },
+    "Курортная": {
+        "avg_price": 5758.5,
+        "max_price": 9877,
+        "min_price": 1796,
+        "count": 8
+    },
+    "Архыз": {
+        "avg_price": 5644.9473684210525,
+        "max_price": 9956,
+        "min_price": 681,
+        "count": 19
+    },
+    "Наволочки": {
+        "avg_price": 6487.466666666666,
+        "max_price": 9934,
+        "min_price": 511,
+        "count": 15
+    },
+    "Пакеты для дня рождения": {
+        "avg_price": 4855.25,
+        "max_price": 9619,
+        "min_price": 1913,
+        "count": 16
+    },
+    "Любисток сушеный": {
+        "avg_price": 4999.0,
+        "max_price": 9761,
+        "min_price": 586,
+        "count": 18
+    },
+    "Авокадо": {
+        "avg_price": 4917.6,
+        "max_price": 8854,
+        "min_price": 1380,
+        "count": 10
+    },
+    "Киноа": {
+        "avg_price": 4816.933333333333,
+        "max_price": 9234,
+        "min_price": 189,
+        "count": 15
+    },
+    "Петрушка корневая": {
+        "avg_price": 5291.85,
+        "max_price": 9713,
+        "min_price": 122,
+        "count": 20
+    },
+    "Шубат": {
+        "avg_price": 4169.421052631579,
+        "max_price": 9257,
+        "min_price": 112,
+        "count": 19
+    },
+    "Косулятина": {
+        "avg_price": 4340.714285714285,
+        "max_price": 9361,
+        "min_price": 151,
+        "count": 7
+    },
+    "Рамбутан": {
+        "avg_price": 5897.666666666667,
+        "max_price": 9599,
+        "min_price": 2553,
+        "count": 6
+    },
+    "Кострец": {
+        "avg_price": 5617.571428571428,
+        "max_price": 9765,
+        "min_price": 1024,
+        "count": 7
+    },
+    "Буррито с мясом": {
+        "avg_price": 5981.833333333333,
+        "max_price": 9238,
+        "min_price": 2049,
+        "count": 6
+    },
+    "Миргородская": {
+        "avg_price": 5386.333333333333,
+        "max_price": 9698,
+        "min_price": 958,
+        "count": 15
+    },
+    "Чечевица": {
+        "avg_price": 4208.071428571428,
+        "max_price": 9467,
+        "min_price": 975,
+        "count": 14
+    },
+    "Ямс": {
+        "avg_price": 4648.8,
+        "max_price": 7854,
+        "min_price": 231,
+        "count": 5
+    },
+    "Донер-кебаб": {
+        "avg_price": 4254.5625,
+        "max_price": 8779,
+        "min_price": 119,
+        "count": 16
+    },
+    "Кориандр молотый": {
+        "avg_price": 4631.090909090909,
+        "max_price": 8822,
+        "min_price": 461,
+        "count": 11
+    },
+    "Липецкий бювет": {
+        "avg_price": 4574.6,
+        "max_price": 9509,
+        "min_price": 319,
+        "count": 15
+    },
+    "Айран": {
+        "avg_price": 4055.866666666667,
+        "max_price": 6888,
+        "min_price": 917,
+        "count": 15
+    },
+    "Карбонад": {
+        "avg_price": 5333.571428571428,
+        "max_price": 8757,
+        "min_price": 407,
+        "count": 14
+    },
+    "Мята перечная сушеная": {
+        "avg_price": 3942.5,
+        "max_price": 8736,
+        "min_price": 1616,
+        "count": 6
+    },
+    "Пакеты для уборки": {
+        "avg_price": 5635.5,
+        "max_price": 9633,
+        "min_price": 1514,
+        "count": 14
+    },
+    "Чеддер": {
+        "avg_price": 4930.0,
+        "max_price": 8646,
+        "min_price": 917,
+        "count": 8
+    },
+    "Ивантеевская": {
+        "avg_price": 4124.125,
+        "max_price": 9743,
+        "min_price": 365,
+        "count": 16
+    },
+    "Малина": {
+        "avg_price": 4205.285714285715,
+        "max_price": 9731,
+        "min_price": 602,
+        "count": 14
+    },
+    "Читинская": {
+        "avg_price": 5770.111111111111,
+        "max_price": 9924,
+        "min_price": 250,
+        "count": 18
+    },
+    "Хурма": {
+        "avg_price": 4096.875,
+        "max_price": 9916,
+        "min_price": 873,
+        "count": 16
+    },
+    "Кровянка": {
+        "avg_price": 4993.272727272727,
+        "max_price": 9499,
+        "min_price": 148,
+        "count": 11
+    },
+    "Пакеты многоразовые": {
+        "avg_price": 4224.4,
+        "max_price": 8716,
+        "min_price": 2003,
+        "count": 5
+    },
+    "Капуста белокочанная": {
+        "avg_price": 5444.571428571428,
+        "max_price": 8975,
+        "min_price": 608,
+        "count": 14
+    },
+    "Кабачок": {
+        "avg_price": 4691.166666666667,
+        "max_price": 9367,
+        "min_price": 492,
+        "count": 12
+    },
+    "Азовская": {
+        "avg_price": 4237.384615384615,
+        "max_price": 9937,
+        "min_price": 615,
+        "count": 26
+    },
+    "Каймак": {
+        "avg_price": 4027.189189189189,
+        "max_price": 9932,
+        "min_price": 142,
+        "count": 37
+    },
+    "Вилки": {
+        "avg_price": 5544.538461538462,
+        "max_price": 9657,
+        "min_price": 177,
+        "count": 13
+    },
+    "Пакеты для выставки": {
+        "avg_price": 5194.777777777777,
+        "max_price": 8037,
+        "min_price": 2074,
+        "count": 9
+    },
+    "Bonaqua": {
+        "avg_price": 5341.058823529412,
+        "max_price": 9457,
+        "min_price": 1539,
+        "count": 17
+    },
+    "Фета": {
+        "avg_price": 5017.0,
+        "max_price": 9573,
+        "min_price": 537,
+        "count": 14
+    },
+    "Шницель": {
+        "avg_price": 4795.266666666666,
+        "max_price": 9512,
+        "min_price": 646,
+        "count": 15
+    },
+    "Сэндвичи с ветчиной": {
+        "avg_price": 6026.8,
+        "max_price": 9738,
+        "min_price": 421,
+        "count": 10
+    },
+    "Черника": {
+        "avg_price": 5563.25,
+        "max_price": 9610,
+        "min_price": 1280,
+        "count": 20
+    },
+    "Блины с мясом": {
+        "avg_price": 6965.166666666667,
+        "max_price": 9215,
+        "min_price": 1535,
+        "count": 6
+    },
+    "Амарант крупа": {
+        "avg_price": 3899.090909090909,
+        "max_price": 9053,
+        "min_price": 491,
+        "count": 11
+    },
+    "Ливерная колбаса": {
+        "avg_price": 6500.333333333333,
+        "max_price": 9032,
+        "min_price": 2921,
+        "count": 9
+    },
+    "Кружки": {
+        "avg_price": 5018.545454545455,
+        "max_price": 8298,
+        "min_price": 1960,
+        "count": 11
+    },
+    "Брюква": {
+        "avg_price": 4472.1875,
+        "max_price": 9581,
+        "min_price": 264,
+        "count": 16
+    },
+    "Тыква": {
+        "avg_price": 5154.727272727273,
+        "max_price": 9592,
+        "min_price": 1694,
+        "count": 11
+    },
+    "Киви": {
+        "avg_price": 6517.636363636364,
+        "max_price": 8210,
+        "min_price": 3381,
+        "count": 11
+    },
+    "Анапская": {
+        "avg_price": 4830.25,
+        "max_price": 9706,
+        "min_price": 240,
+        "count": 12
+    },
+    "Брокколи": {
+        "avg_price": 3577.3,
+        "max_price": 8759,
+        "min_price": 1092,
+        "count": 10
+    },
+    "Брынза": {
+        "avg_price": 5836.0,
+        "max_price": 9927,
+        "min_price": 896,
+        "count": 13
+    },
+    "Краснодарская": {
+        "avg_price": 5698.294117647059,
+        "max_price": 9949,
+        "min_price": 669,
+        "count": 17
+    },
+    "Чувашская": {
+        "avg_price": 4596.611111111111,
+        "max_price": 8739,
+        "min_price": 113,
+        "count": 18
+    },
+    "Пакеты для детских вещей": {
+        "avg_price": 4055.842105263158,
+        "max_price": 8628,
+        "min_price": 128,
+        "count": 19
+    },
+    "Марийская": {
+        "avg_price": 4147.0,
+        "max_price": 8999,
+        "min_price": 368,
+        "count": 13
+    },
+    "Яблоко": {
+        "avg_price": 6086.1,
+        "max_price": 9697,
+        "min_price": 1543,
+        "count": 10
+    },
+    "Бритвенный станок": {
+        "avg_price": 5529.363636363636,
+        "max_price": 9862,
+        "min_price": 1860,
+        "count": 11
+    },
+    "Эндивий": {
+        "avg_price": 4345.9,
+        "max_price": 6987,
+        "min_price": 577,
+        "count": 10
+    },
+    "Энчиладас с мясом": {
+        "avg_price": 4912.333333333333,
+        "max_price": 9593,
+        "min_price": 1867,
+        "count": 15
+    },
+    "Пакеты для игрушек": {
+        "avg_price": 5011.4,
+        "max_price": 9430,
+        "min_price": 600,
+        "count": 15
+    }
+}
